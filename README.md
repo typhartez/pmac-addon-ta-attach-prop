@@ -44,6 +44,8 @@ TA_ATTACH_PROP{prop_name::sitter_num::position::rotation::attach_point}
 
 ### Valid values for attach point
 
+All constant can be found on the [Second Life LSL Wiki](http://wiki.secondlife.com/wiki/Category:LSL_Attachment).
+
 String | LSL constant | Value |
 -------|--------------|-------|
 auto   |  | 0 |
